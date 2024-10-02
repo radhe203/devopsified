@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: radhe2003/go-app:01
   pullPolicy: IfNotPresent
-  tag: "11138784360"
+  tag: "11138962540"
 
 ingress:
   enabled: false
